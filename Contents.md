@@ -6,7 +6,7 @@
 - [x] Minimum Subarray with Given Sum
 - [ ] Longest Substring length with k Unique characters
 - [x] fruits into baskets
-- [ ] no repeat substring
+- [x] no repeat substring
 - [ ] Longest substring with same letters after replacement
 - [ ] longest subarray with ones after replacement
 - [ ] permutation in a string
