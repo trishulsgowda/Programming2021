@@ -9,7 +9,7 @@
 - [x] no repeat substring
 - [ ] Longest substring with same letters after replacement
 - [ ] longest subarray with ones after replacement
-- [ ] permutation in a string
+- [x] permutation in a string
 - [ ] string anagrams
 - [ ] smallest window containing substring
 - [ ] words concatenation
