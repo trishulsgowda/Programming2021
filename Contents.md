@@ -7,7 +7,7 @@
 - [ ] Longest Substring length with k Unique characters
 - [x] fruits into baskets
 - [x] no repeat substring
-- [ ] Longest substring with same letters after replacement
+- [x] Longest substring with same letters after replacement
 - [ ] longest subarray with ones after replacement
 - [x] permutation in a string
 - [ ] string anagrams
