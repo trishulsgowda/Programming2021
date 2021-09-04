@@ -8,7 +8,7 @@
 - [x] fruits into baskets
 - [x] no repeat substring
 - [x] Longest substring with same letters after replacement
-- [ ] longest subarray with ones after replacement
+- [x] longest subarray with ones after replacement
 - [x] permutation in a string
 - [ ] string anagrams
 - [ ] smallest window containing substring
