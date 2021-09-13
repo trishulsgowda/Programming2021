@@ -1,6 +1,6 @@
-<h3> Programs </p>
+<h3> Programs </h3>
 
-<h4>Sliding Window </h4>
+<h4> Sliding Window </h4>
 
 - [ ] Maximum Sum of Contigous Subarray of size n
 - [x] Minimum Subarray with Given Sum
@@ -13,3 +13,14 @@
 - [ ] string anagrams
 - [ ] smallest window containing substring
 - [ ] words concatenation
+
+<h4> Two Pointer </h4>
+
+- [ ] Pair with Target Sum
+- [x] Remove Duplicates
+- [x] Squaring a Sorted Array
+- [ ] Triplet Sum to Zero
+- [ ] Triplet Sum Close to Target
+- [ ] Triplets with Smaller Sum
+- [ ] Subarrays with Product Less than a Target
+- [ ] Dutch National Flag Problem
