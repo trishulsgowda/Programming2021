@@ -19,7 +19,7 @@
 - [ ] Pair with Target Sum
 - [x] Remove Duplicates
 - [x] Squaring a Sorted Array
-- [ ] Triplet Sum to Zero
+- [x] Triplet Sum to Zero
 - [ ] Triplet Sum Close to Target
 - [ ] Triplets with Smaller Sum
 - [ ] Subarrays with Product Less than a Target
