@@ -20,7 +20,7 @@
 - [x] Remove Duplicates
 - [x] Squaring a Sorted Array
 - [x] Triplet Sum to Zero
-- [ ] Triplet Sum Close to Target
+- [x] Triplet Sum Close to Target
 - [ ] Triplets with Smaller Sum
 - [ ] Subarrays with Product Less than a Target
 - [ ] Dutch National Flag Problem
