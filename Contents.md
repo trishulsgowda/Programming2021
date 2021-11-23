@@ -24,3 +24,10 @@
 - [ ] Triplets with Smaller Sum
 - [ ] Subarrays with Product Less than a Target
 - [ ] Dutch National Flag Problem
+
+<h4> Fast & Slow pointer </h4>
+
+- [x] LinkedList Cycle
+- [x] Start of LinkedList Cycle
+- [x] Happy Number
+- [x] Middle of LinkedList
